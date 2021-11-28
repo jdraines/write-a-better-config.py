@@ -1,0 +1,9 @@
+color: blue
+attrs:
+    - reverse
+    - bold
+test_mode:
+  color: red
+  attrs:
+    - reverse
+    - dark
